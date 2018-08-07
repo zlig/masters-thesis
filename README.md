@@ -1,4 +1,4 @@
-# masters-thesis-ai
+# masters-thesis
 
 MSc Artificial Intelligence Thesis
 
