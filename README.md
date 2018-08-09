@@ -24,3 +24,4 @@ MSc Artificial Intelligence Thesis
 * [Dissertation Writing](https://ulsites.ul.ie/rwc/sites/default/files/Dissertation%20Writing%202.pdf)
 * [How to Write a Thesis](https://www.wikihow.com/Write-a-Master%27s-Thesis)
 * [Best Tips](https://www.quora.com/What-are-the-best-tips-for-writing-a-masters-dissertation-thesis)
+* [Structuring a Thesis](https://sokogskriv.no/en/writing/structure-and-argumentation/structuring-a-thesis/)
