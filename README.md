@@ -4,7 +4,7 @@ MSc Artificial Intelligence Thesis
 
 ## Information
 * Cover page with author name to allow being referenced
-* Thesis Length: 15,000 to 21,000 words (25-30 pages), with a maximum of 60,000 words for Research Masters and 100,000 words for PhD
+* Thesis Length: 15,000 to 21,000 words (25-30 pages)
 
 ## Structure
 * Summary and foreword
