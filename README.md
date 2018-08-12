@@ -23,6 +23,9 @@ MSc Artificial Intelligence Thesis
 ## Presentation
 * Slides
 
+## Sources of Information
+* [Google Scholars](https://scholar.google.com/citations?user=twuEPEEAAAAJ&hl=en)
+
 ## Resources
 * [Dissertation Writing](https://ulsites.ul.ie/rwc/sites/default/files/Dissertation%20Writing%202.pdf)
 * [How to Write a Thesis](https://www.wikihow.com/Write-a-Master%27s-Thesis)
