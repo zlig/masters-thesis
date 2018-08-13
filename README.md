@@ -24,6 +24,7 @@ MSc Artificial Intelligence Thesis
 * Slides
 
 ## Sources of Information
+* [Listing references and writingtools](https://libguides.mit.edu/cite-write/bibtex): BibTeX is reference management software for formatting lists of references. The BibTeX tool is typically used together with the LaTeX document preparation system.
 * [Google Scholars](https://scholar.google.com/citations?user=twuEPEEAAAAJ&hl=en)
 
 ## Resources
