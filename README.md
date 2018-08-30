@@ -37,6 +37,38 @@ Common topics in Artificial Intelligence for a thesis, research, and project are
 * Biometrics
 * Computational Biology
 
+### Deep Learning
+
+Deep Learning is a subfield of Machine Learning that uses machine learning algorithms for data representation.
+
+### Robotics
+
+Robotics is a branch of the field which is a mixture of mechanical, electrical, and computer science engineering and uses machine learning algorithms for designing and working with robots.
+
+### Natural Language Processing
+
+It is a branch of artificial intelligence that deals with the way computer and human language interact with each other.
+
+### Reinforcement Learning
+
+Reinforcement Learning is a part of Artificial Intelligence that determines how an agent should act in an environment in order to maximize its performance.
+
+### Artificial Neural Network
+
+Artificial Neural Network imitates the working of a human brain. The nodes represent the biological neuron.
+
+### Expert System
+
+Expert System is a good area for research in artificial intelligence. Expert Systems solve complex computational problems.
+
+### Fuzzy Systems
+
+Fuzzy Systems produce a definite output for an indefinite input through fuzzy logic. Fuzzy Logic is a method of reasoning resembling human reasoning.
+
+### Computer Vision
+
+Computer Vision is a part of artificial intelligence that deals with making computers understand the digital images and videos.
+
 ## Sources of Information
 * [Listing references and writingtools](https://libguides.mit.edu/cite-write/bibtex): BibTeX is reference management software for formatting lists of references. The BibTeX tool is typically used together with the LaTeX document preparation system.
 * [Google Scholars](https://scholar.google.com/citations?user=twuEPEEAAAAJ&hl=en)
