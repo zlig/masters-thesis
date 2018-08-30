@@ -31,6 +31,7 @@ before_script:
 script:
 - mkdir output/
 - cd output/
+- pandoc --help
 - jupyter nbconvert --to PDF --config ~/.ipython/profile_nbserver/ipython_nbconvert_config.py ../notebooks/*/*.ipynb
 #- pdflatex -interaction=nonstopmode -halt-on-error -output-directory . ../tex/*.tex
 
