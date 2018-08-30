@@ -2,6 +2,10 @@ os: linux
 dist: trusty
 sudo: false
 
+language: python
+python:
+    - 2.7
+
 addons:
   apt:
     packages:
@@ -12,7 +16,7 @@ addons:
     - dvipng
     - texlive-xetex
 
-before_install:
+install:
 #- apt-get install -y ipython ipython-notebook python-jinja2 python-pygments
 - pip install ipython
 
