@@ -4,7 +4,7 @@ before_install:
 - sudo apt-get -qq update
 - sudo apt-get install -y --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra dvipng texlive-latex-recommended
 - sudo apt-get install -y texlive-xetex
-- sudo apt-get install -y ipython python-jinja2 python-pygments
+- sudo apt-get install -y ipython ipython-notebook python-jinja2 python-pygments
 
 before_script:
 # Downloads GDrive tool locally (from https://github.com/prasmussen/gdrive)
