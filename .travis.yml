@@ -9,10 +9,11 @@ before_install:
 before_script:
 # Downloads GDrive tool locally (from https://github.com/prasmussen/gdrive)
 - wget -L "https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&export=download" -O gdrive-linux-x64
+- echo "set c.PDFPostProcessor.latex_command = [u'xelatex', u'{filename}']" > ~/.ipython/profile_nbserver/ipython_nbconvert_config.py
 
 script:
 - mkdir output/
 - cd output/
-- ipython nbconvert --to pdf ../notebook/*/*.ipynb
+- ipython nbconvert --to latex --post PDF --config ~/.ipython/profile_nbserver/ipython_nbconvert_config.py ../notebook/*/*.ipynb
 #- pdflatex -interaction=nonstopmode -halt-on-error -output-directory . ../tex/*.tex
 
