@@ -5,6 +5,10 @@ before_install:
 - sudo apt-get install -y --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra dvipng texlive-latex-recommended
 - sudo apt-get install -y ipython
 
+before_script:
+# Downloads GDrive tool locally (from https://github.com/prasmussen/gdrive)
+- wget https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&export=download
+
 script:
 - mkdir output/
 - cd output/
