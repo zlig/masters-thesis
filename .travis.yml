@@ -18,7 +18,7 @@ addons:
 
 install:
 #- apt-get install -y ipython ipython-notebook python-jinja2 python-pygments
-- pip install ipython jupyter nbconvert pandoc
+- pip install ipython jupyter nbconvert pypandoc
 
 before_script:
 # Downloads GDrive tool locally (from https://github.com/prasmussen/gdrive)
