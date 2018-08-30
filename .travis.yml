@@ -1,10 +1,11 @@
 dist: trusty
 
 before_install:
-- sudo apt-get -qq update
-- sudo apt-get install -y --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra dvipng texlive-latex-recommended
-- sudo apt-get install -y texlive-xetex
-- sudo apt-get install -y ipython ipython-notebook python-jinja2 python-pygments
+- apt-get -qq update
+- apt-get install -y --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra dvipng texlive-latex-recommended
+- apt-get install -y texlive-xetex
+#- apt-get install -y ipython ipython-notebook python-jinja2 python-pygments
+- pip install ipython
 
 before_script:
 # Downloads GDrive tool locally (from https://github.com/prasmussen/gdrive)
