@@ -11,7 +11,8 @@ before_script:
 - wget -L "https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&export=download" -O gdrive-linux-x64
 # Configure NBConvert to handle Unicodes
 - mkdir -p ~/.ipython/profile_nbserver/
-- echo "set c.PDFPostProcessor.latex_command = [u'xelatex', u'{filename}']" > ~/.ipython/profile_nbserver/ipython_nbconvert_config.py
+- echo "c = get_config()" > ~/.ipython/profile_nbserver/ipython_nbconvert_config.py
+- echo "c.PDFPostProcessor.latex_command = [u'xelatex', u'{filename}']" >> ~/.ipython/profile_nbserver/ipython_nbconvert_config.py
 
 script:
 - mkdir output/
