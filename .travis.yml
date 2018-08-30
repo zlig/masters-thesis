@@ -18,7 +18,8 @@ addons:
 
 install:
 #- apt-get install -y ipython ipython-notebook python-jinja2 python-pygments
-- pip install ipython jupyter nbconvert pypandoc
+- pip install "ipython[notebook]" --upgrade
+- pip install nbconvert pypandoc
 
 before_script:
 # Downloads GDrive tool locally (from https://github.com/prasmussen/gdrive)
@@ -32,6 +33,6 @@ script:
 - mkdir output/
 - cd output/
 - pandoc --help
-- jupyter nbconvert --to PDF --config ~/.ipython/profile_nbserver/ipython_nbconvert_config.py ../notebooks/*/*.ipynb
+- ipython nbconvert --to PDF --config ~/.ipython/profile_nbserver/ipython_nbconvert_config.py ../notebooks/*/*.ipynb
 #- pdflatex -interaction=nonstopmode -halt-on-error -output-directory . ../tex/*.tex
 
