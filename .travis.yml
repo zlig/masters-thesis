@@ -7,11 +7,11 @@ before_install:
 
 before_script:
 # Downloads GDrive tool locally (from https://github.com/prasmussen/gdrive)
-- wget https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&export=download
+- wget -L "https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&export=download" -O gdrive-linux-x64
 
 script:
 - mkdir output/
 - cd output/
-#- pdflatex -interaction=nonstopmode -halt-on-error -output-directory . ../tex/*.tex
 - ipython nbconvert --to pdf notebook/*/*.ipynb
+#- pdflatex -interaction=nonstopmode -halt-on-error -output-directory . ../tex/*.tex
 
