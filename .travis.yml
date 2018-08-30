@@ -1,9 +1,18 @@
+os: linux
 dist: trusty
+sudo: false
+
+addons:
+  apt:
+    packages:
+    - texlive-fonts-recommended
+    - texlive-latex-extra
+    - texlive-fonts-extra
+    - texlive-latex-recommended
+    - dvipng
+    - texlive-xetex
 
 before_install:
-- apt-get -qq update
-- apt-get install -y --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra dvipng texlive-latex-recommended
-- apt-get install -y texlive-xetex
 #- apt-get install -y ipython ipython-notebook python-jinja2 python-pygments
 - pip install ipython
 
