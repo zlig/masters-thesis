@@ -6,7 +6,7 @@ MSc Artificial Intelligence Thesis
 * Cover page with author name to allow being referenced
 * Table of Contents (formatted)
 * Thesis Length: 15,000 to 21,000 words (25-30 pages)
-* Publish (Pages, Link ..)
+* Publish document (Pages, Link ..)
 
 ## Structure
 * Summary and foreword
