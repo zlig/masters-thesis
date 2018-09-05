@@ -5,7 +5,8 @@ MSc Artificial Intelligence Thesis
 ## Information
 * Cover page with author name to allow being referenced
 * Table of Contents (formatted)
-* Thesis Length: 15,000 to 21,000 words (25-30 pages)
+* Thesis Length: 50-80 pages
+* Typing: double-sided A4 paper in Times New Roman, font size 12, 1.5 line spacing, with 2.5cm margins (top, bottom, left and right)
 * Publish document into a webpage with link (Pages, Link, Versions ..)
 
 ## Structure
