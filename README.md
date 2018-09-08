@@ -23,6 +23,9 @@ MSc Artificial Intelligence Thesis
 * Discussion
 * Conclusion
 
+## Identify Topic
+Possible subjects or topics to be identified
+
 ## Presentation
 * Slides
 
