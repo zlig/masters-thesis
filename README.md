@@ -24,7 +24,8 @@ MSc Artificial Intelligence Thesis
 * Conclusion
 
 ## Identify Topic
-Possible subjects or topics to be identified
+Possible subjects or topics to be identified:
+- SL monitor
 
 ## Presentation
 * Slides
