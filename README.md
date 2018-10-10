@@ -26,6 +26,7 @@ MSc Artificial Intelligence Thesis
 ## Identify Topic
 Possible subjects or topics to be identified:
 - SL monitor
+- Chatbot
 
 ## Presentation
 * Slides
