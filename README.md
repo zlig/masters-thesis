@@ -28,6 +28,7 @@ Possible subjects or topics to be identified:
 - SL monitor
 - Chatbot
 - Scrape articles of same topic and compare
+- Provides description of uploaded picture
 
 ## Presentation
 * Slides
