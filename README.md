@@ -29,6 +29,7 @@ Possible subjects or topics to be identified:
 - Chatbot
 - Scrape articles of same topic and compare
 - Provides description of uploaded picture
+- Lottery draws predictions based on model
 
 ## Presentation
 * Slides
