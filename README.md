@@ -30,6 +30,7 @@ Possible subjects or topics to be identified:
 - Scrape articles of same topic and compare
 - Provides description of uploaded picture
 - Lottery draws predictions based on model
+- Application logs monitoring using MCA for classification
 
 ## Presentation
 * Slides
