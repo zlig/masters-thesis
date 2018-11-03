@@ -26,7 +26,7 @@ MSc Artificial Intelligence Thesis
 ## Identify Topic
 Possible subjects or topics to be identified:
 - SL monitor
-- Chatbot
+- Chatbot generating sentences from vocabulary
 - Scrape articles of same topic and compare
 - Provides description of uploaded picture
 - Lottery draws predictions based on model
