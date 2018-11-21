@@ -31,7 +31,7 @@ Possible subjects or topics to be identified:
 - Provides description of uploaded picture
 - Lottery draws predictions based on model
 - Application logs monitoring using MCA for classification
-- Services to summarize notes, articles, or text book
+- Services to summarize notes, articles, or textbooks
 
 ## Presentation
 * Slides
