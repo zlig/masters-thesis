@@ -21,3 +21,11 @@
 
 ## Deep Neural Network
 
+### Neural Network
+
+* Activation
+* Bias
+* Nodes/Kernels
+* Epochs
+* Max-Pooling
+* Training and Test Sets
