@@ -37,6 +37,7 @@
 
 ### Various Neural Network
 
+* Regression / Classification
 * ANN
 * RNN
 * CNN
