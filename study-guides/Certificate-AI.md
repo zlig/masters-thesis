@@ -12,4 +12,12 @@
 * Determinant
 
 
+### Probabilities
+
+* Random
+* Distribution
+* Visualisation/Plots
+
+
 ## Deep Neural Network
+
