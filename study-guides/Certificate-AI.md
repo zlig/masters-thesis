@@ -25,7 +25,9 @@
 
 * Activation
 * Bias
+* Weights
 * Nodes/Kernels
+* Forward / Bacward Propagation
 * Epochs
 * Max-Pooling
 * Training and Test Sets
