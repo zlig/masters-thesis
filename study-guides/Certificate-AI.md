@@ -21,7 +21,7 @@
 
 ## Deep Neural Network
 
-### Neural Network
+### Theory
 
 * Activation
 * Bias
@@ -29,3 +29,12 @@
 * Epochs
 * Max-Pooling
 * Training and Test Sets
+
+### Various Neural Network
+
+* ANN
+* RNN
+* CNN
+* GAN
+* Autoencoder
+* Decision trees
