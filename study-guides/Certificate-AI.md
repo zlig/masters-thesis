@@ -31,6 +31,8 @@
 * Epochs
 * Max-Pooling
 * Training and Test Sets
+* Dropout Layer
+* Mini-batch
 
 ### Various Neural Network
 
