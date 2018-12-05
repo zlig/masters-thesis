@@ -33,6 +33,7 @@
 * Training and Test Sets
 * Dropout Layer
 * Mini-batch
+* Sigmoid/ReLU/Softmax
 
 ### Various Neural Network
 
