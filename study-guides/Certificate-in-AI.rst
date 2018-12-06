@@ -4,6 +4,12 @@ Certificate in AI Study Guide
 Scientific Computing
 --------------------
 
+Equations
+~~~~~~~~~
+
+* Derivatives
+
+
 Matrices
 ~~~~~~~~
 
