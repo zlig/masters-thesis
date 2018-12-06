@@ -20,6 +20,7 @@ Matrices
 * Dot-Product
 * Cross-Product
 * Determinant
+* Vector
 
 
 Probabilities
