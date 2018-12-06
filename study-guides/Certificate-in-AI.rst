@@ -10,7 +10,6 @@ Equations
 * Derivatives
 * Partial Derivatives
 
-
 Matrices
 ~~~~~~~~
 
@@ -21,6 +20,13 @@ Matrices
 * Cross-Product
 * Determinant
 * Vector
+* Transpose
+
+Linear Algebra
+~~~~~~~~~~~~~~
+
+* Principal Components Analysis (PCA)
+* Eigen Vectors / Eigen Values
 
 
 Probabilities
