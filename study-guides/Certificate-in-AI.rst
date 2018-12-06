@@ -8,13 +8,6 @@ Equations
 ~~~~~~~~~
 
 * Derivatives
-
- * Equations
-
-$\beta$
-$\infty$
-
-
 * Partial Derivatives
 
 
