@@ -4,7 +4,8 @@ Certificate in AI Study Guide
 Scientific Computing
 --------------------
 
-### Matrices
+Matrices
+~~~~~~~~
 
 * Addition
 * Substraction
@@ -14,7 +15,8 @@ Scientific Computing
 * Determinant
 
 
-### Probabilities
+Probabilities
+~~~~~~~~~~~~~
 
 * Random
 * Distribution
