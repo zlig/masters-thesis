@@ -8,10 +8,12 @@ Equations
 ~~~~~~~~~
 
 * Derivatives
- * Equations
-.. math::
 
-   \begin{align}f(x) = 3x^2\end{align}
+ * Equations
+
+$\beta$
+$\infty$
+
 
 * Partial Derivatives
 
