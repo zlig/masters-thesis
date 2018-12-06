@@ -8,6 +8,7 @@ Equations
 ~~~~~~~~~
 
 * Derivatives
+* Partial Derivatives
 
 
 Matrices
