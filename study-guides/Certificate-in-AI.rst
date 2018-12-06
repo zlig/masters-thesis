@@ -8,10 +8,10 @@ Equations
 ~~~~~~~~~
 
 * Derivatives
-** Equations
+ * Equations
 .. math::
 
-   \frac{ \sum_{t=0}^{N}f(t,k) }{N}
+   \begin{align}f(x) = 3x^2\end{align}
 
 * Partial Derivatives
 
