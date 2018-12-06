@@ -23,9 +23,11 @@ Probabilities
 * Visualisation/Plots
 
 
-## Deep Neural Network
+Deep Neural Network
+-------------------
 
-### Theory
+Theory
+~~~~~~
 
 * Activation
 * Bias
@@ -39,7 +41,8 @@ Probabilities
 * Mini-batch
 * Sigmoid/ReLU/Softmax
 
-### Various Neural Network
+Various Neural Network
+~~~~~~~~~~~~~~~~~~~~~~
 
 * Regression / Classification
 * ANN
