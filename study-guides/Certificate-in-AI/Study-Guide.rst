@@ -49,6 +49,7 @@ Theory
 * Nodes/Kernels
 * Forward / Bacward Propagation
 * Epochs
+In a configured neural network model that can be trained, the number of epoch needs to be specified. Each epoch corresponds to one complete forward and backward propogation of the neural network (with the weights at each neuron being updated during back propogation).
 * Max-Pooling
 * Training and Test Sets
 * Dropout Layer
