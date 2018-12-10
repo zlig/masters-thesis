@@ -59,6 +59,8 @@ Theory
 Various Neural Network
 ~~~~~~~~~~~~~~~~~~~~~~
 
+https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/
+
 * Regression / Classification
 * RBM
 * ANN
