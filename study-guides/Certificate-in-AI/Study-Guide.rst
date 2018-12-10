@@ -18,7 +18,7 @@ Matrices
 * Multiplication
 * Dot-Product
 * Cross-Product
-* Determinant
+* Determinant: https://en.wikipedia.org/wiki/Determinant
 * Vector
 * Transpose
 
