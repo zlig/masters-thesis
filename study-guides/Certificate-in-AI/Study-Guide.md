@@ -17,6 +17,8 @@ Scientific Computing
 * Dot-Product
 * Cross-Product
 * [Determinant](https://en.wikipedia.org/wiki/Determinant): In linear algebra, the *determinant* is a value that can be computed from the elements of a square matrix. The determinant of a matrix A is denoted det(A), det A, or |A|. Geometrically, it can be viewed as the scaling factor of the linear transformation described by the matrix.
+![2x2 Matrix Determinant](https://wikimedia.org/api/rest_v1/media/math/render/svg/5b2e40d390e1d26039aabee44c7d1d86c8755232)
+
 * Vector
 * Transpose
 
