@@ -60,8 +60,11 @@ Various Neural Network
 ~~~~~~~~~~~~~~~~~~~~~~
 
 * Regression / Classification
+* RBM
 * ANN
-* RNN
+* **RNN**: One restriction of a Restricted Boltzmann Machine (RBM), is that the nodes within a layer do not connect to each other.
+A RNN breaks this rule by allowing to connect nodes from the same layer, allowing for dependencies between inputs.
+This makes the RNN suitable for timeseries or sequential data. 
 * CNN
 * GAN
 * Autoencoder
