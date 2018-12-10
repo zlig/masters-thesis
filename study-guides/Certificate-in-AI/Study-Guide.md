@@ -4,14 +4,12 @@ Certificate in AI Study Guide
 Scientific Computing
 --------------------
 
-Equations
-~~~~~~~~~
+### Equations
 
 * Derivatives
 * Partial Derivatives
 
-Matrices
-~~~~~~~~
+### Matrices
 
 * Addition
 * Substraction
@@ -24,7 +22,6 @@ In linear algebra, the *determinant* is a value that can be computed from the el
 * Transpose
 
 Linear Algebra
-~~~~~~~~~~~~~~
 
 * Principal Components Analysis (PCA)
 * Eigen Vectors / Eigen Values
