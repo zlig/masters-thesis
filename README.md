@@ -32,6 +32,7 @@ Possible subjects or topics to be identified:
 - Lottery draws predictions based on model
 - Application logs monitoring using MCA for classification
 - Services to summarize notes, articles, or textbooks
+- AWS Deep racers self-driving via reinforced learning
 
 ## Presentation
 * Slides
