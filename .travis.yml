@@ -15,6 +15,7 @@ addons:
     - texlive-latex-recommended
     - dvipng
     - texlive-xetex
+    - pandoc
 
 install:
 #- apt-get install -y ipython ipython-notebook python-jinja2 python-pygments
