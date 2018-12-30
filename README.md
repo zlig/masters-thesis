@@ -33,6 +33,7 @@ Possible subjects or topics to be identified:
 - Application logs monitoring using MCA for classification
 - Services to summarize notes, articles, or textbooks
 - AWS Deep racers self-driving via reinforced learning
+- Art or haiku generated from a GAN
 
 ## Presentation
 * Slides
