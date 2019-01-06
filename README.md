@@ -35,6 +35,7 @@ Possible subjects or topics to be identified:
 - AWS Deep racers self-driving via reinforced learning
 - Art or haiku generated from a GAN
 - Mood of the day in region of the world via news and twitter
+- Service suggesting what to watch based on taste and location
 
 ## Presentation
 * Slides
