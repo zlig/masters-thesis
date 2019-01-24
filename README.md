@@ -36,6 +36,7 @@ Possible subjects or topics to be identified:
 - Art or haiku generated from a GAN
 - Mood of the day in region of the world via news and twitter
 - Service suggesting what to watch based on taste and location
+- Autonomous RC Car using RPi, Camera, CNN and OpenCV
 
 ## Presentation
 * Slides
