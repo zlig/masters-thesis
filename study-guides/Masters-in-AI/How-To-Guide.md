@@ -7,6 +7,10 @@
 * Run sample tests with various options, parameters and models types
 * Execute large scale model training
 
+## Definitions
+
+* [Validations Assumptions and Identify Patterns](https://www.svds.com/value-exploratory-data-analysis/)
+
 ## Load dataset
 
 ```
@@ -31,3 +35,7 @@ dataframe.dtypes
 dataframe.describe(include='all')  # Option: include='<types>' if needing to display statistics for only some data types
 
 ```
+
+## Create Plots
+
+* [What plots?](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea)
