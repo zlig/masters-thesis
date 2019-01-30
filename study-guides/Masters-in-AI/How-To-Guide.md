@@ -39,3 +39,4 @@ dataframe.describe(include='all')  # Option: include='<types>' if needing to dis
 ## Create Plots
 
 * [What plots?](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea)
+* [Visualisation using Pandas](https://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
