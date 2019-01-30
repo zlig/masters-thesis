@@ -13,6 +13,8 @@
 
 ## Load dataset
 
+* [Technical Notes and Common Operations](https://chrisalbon.com/)
+
 ```
 # Import libraries
 import numpy as np
