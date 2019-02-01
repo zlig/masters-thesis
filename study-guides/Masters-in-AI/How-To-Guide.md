@@ -35,8 +35,20 @@ dataframe.dtypes
 
 # Display statistics of dataframe
 dataframe.describe(include='all')  # Option: include='<types>' if needing to display statistics for only some data types
+```
 
 ```
+# Extract comuns with only numerical data
+numerical_columns = dataframe.describe().columns
+print(numerical_columns)
+```
+
+```
+# Extract comuns with only categorical data
+categorical_columns = dataframe.select_dtypes(include=['category', object]).columns
+print(categorical_columns)
+```
+
 
 ## Create Plots
 
