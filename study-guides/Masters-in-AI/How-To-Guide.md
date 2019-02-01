@@ -34,7 +34,8 @@ dataframe.shape
 dataframe.dtypes
 
 # Display statistics of dataframe
-dataframe.describe(include='all')  # Option: include='<types>' if needing to display statistics for only some data types
+#   Option: include='<types>' if needing to display statistics for only some data types
+dataframe.describe(include='all')
 ```
 
 ```
