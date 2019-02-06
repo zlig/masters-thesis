@@ -36,7 +36,7 @@ Possible subjects or topics to be identified:
 - Art or haiku generated from a GAN
 - Mood of the day in region of the world via news and twitter
 - Service suggesting what to watch based on taste and location
-- Autonomous RC Car using RPi, Camera, CNN and OpenCV
+- Autonomous RC Car using RPi, Camera, CNN and OpenCV ([example](https://github.com/hamuchiwa/AutoRCCar))
 - Geolocation project based on OpenStreetMap APIs
 - AI Web Crawler trained to identify and classify content ([examples](https://www.quora.com/Can-a-Web-Crawler-be-programmed-to-use-artificial-intelligence))
 - ML approach to trading and financial markets using APIs for automated orders
