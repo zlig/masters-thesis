@@ -42,6 +42,7 @@ Possible subjects or topics to be identified:
 - ML approach to trading and financial markets using APIs for automated orders
 - Intelligent Tourist Information System
 - AI Algorithms and Data Anaytics preliminary steps automation
+- Insanity Decreasing Appliance (IDA), Real-Time Speech-Driven Companion
 
 ## Presentation
 * Slides
