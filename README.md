@@ -38,6 +38,7 @@ Possible subjects or topics to be identified:
 - Service suggesting what to watch based on taste and location
 - Autonomous RC Car using RPi, Camera, CNN and OpenCV
 - Geolocation project based on OpenStreetMap APIs
+- AI Web Crawler trained to identify content ([examples](https://www.quora.com/Can-a-Web-Crawler-be-programmed-to-use-artificial-intelligence))
 
 ## Presentation
 * Slides
