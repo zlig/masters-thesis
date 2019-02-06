@@ -55,3 +55,33 @@ print(categorical_columns)
 
 * [What plots?](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea)
 * [Visualisation using Pandas](https://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
+
+
+## Working Missing Values
+
+Rarely datasets are available already cleansed and prepared, with a common issue being to have missing values from the rows.
+
+The following commands are helping to solve those:
+```
+# Drop the columns where all elements are missing values:
+df.dropna(axis=1, how='all')
+
+# Drop the columns where any of the elements are missing values
+df.dropna(axis=1, how='any')
+
+# Keep only the rows which contain 2 missing values maximum
+df.dropna(thresh=2)
+
+# Drop the columns where any of the elements are missing values
+df.dropna(axis=1, how='any')
+
+# Fill all missing values with the mean of the particular column
+df.fillna(df.mean())
+
+# Fill any missing value in column 'A' with the column median
+df['A'].fillna(df['A'].median())
+
+# Fill any missing value in column 'Depeche' with the column mode
+df['Depeche'].fillna(df['Depeche'].mode())
+```
+
