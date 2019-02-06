@@ -40,6 +40,7 @@ Possible subjects or topics to be identified:
 - Geolocation project based on OpenStreetMap APIs
 - AI Web Crawler trained to identify and classify content ([examples](https://www.quora.com/Can-a-Web-Crawler-be-programmed-to-use-artificial-intelligence))
 - ML approach to trading and financial markets using APIs for automated orders
+- Inteligent Tourist Information System
 
 ## Presentation
 * Slides
