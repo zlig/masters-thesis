@@ -41,7 +41,7 @@ Possible subjects or topics to be identified:
 - AI Web Crawler trained to identify and classify content ([examples](https://www.quora.com/Can-a-Web-Crawler-be-programmed-to-use-artificial-intelligence))
 - ML approach to trading and financial markets using APIs for automated orders
 - Intelligent Tourist Information System
-- AI Algorithms and Data Anaytics preliminary steps automation
+- AI Algorithms and Data Anaytics preliminary steps automation ([graphs](https://www.gapminder.org/tools/))
 - Insanity Deviation Appliance (IDA), Real-Time Speech-Driven Companion
 
 
