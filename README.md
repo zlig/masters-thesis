@@ -43,6 +43,7 @@ Possible subjects or topics to be identified:
 - Intelligent Tourist Information System
 - AI Algorithms and Data Anaytics preliminary steps automation ([graphs](https://www.gapminder.org/tools/))
 - Insanity Divergence Appliance (IDA), Real-Time Speech-Driven Companion for long space travels
+- AI Data Analytics interpreting datasets and proposing best models
 
 
 ## Presentation
