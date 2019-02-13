@@ -100,3 +100,8 @@ df[df['Depeche'].isnull()]
 df.loc[(df['age'] > 50) & (df['age'] <= 65), 'age_group'] = 'senior'
 ```
 
+```
+# Reset indexes after dropping NaNs values
+df.dropna(inplace=True)
+df.reset_index(drop=True, inplace=True)
+```
