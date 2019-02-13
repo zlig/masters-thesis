@@ -90,3 +90,9 @@ df['A'].fillna(df['A'].median())
 df['Depeche'].fillna(df['Depeche'].mode())
 ```
 
+```
+# List data with missing values for particular column
+df[df['Depeche'].isnull()]
+```
+
+
