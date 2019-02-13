@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/zlig/masters-thesis.svg?branch=master)](https://travis-ci.org/zlig/masters-thesis)
-
-# masters-thesis
+# masters-thesis    [![Build Status](https://travis-ci.org/zlig/masters-thesis.svg?branch=master)](https://travis-ci.org/zlig/masters-thesis)
 
 MSc Artificial Intelligence Thesis
 
