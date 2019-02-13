@@ -95,4 +95,8 @@ df['Depeche'].fillna(df['Depeche'].mode())
 df[df['Depeche'].isnull()]
 ```
 
+```
+# Conditionally impute values
+df.loc[(df['age'] > 50) & (df['age'] <= 65), 'age_group'] = 'senior'
+```
 
