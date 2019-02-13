@@ -1,26 +1,33 @@
 os: linux
-dist: trusty
-sudo: false
+dist: xenial
 
 language: python
 python:
-    - 3.4
+    - 3.5
 
 addons:
   apt:
     packages:
     - texlive-fonts-recommended
-    - texlive-latex-extra
     - texlive-fonts-extra
+    - texlive-latex-extra
     - texlive-latex-recommended
-    - dvipng
+    - texlive-luatex
+    - texlive-pstricks
     - texlive-xetex
+    - dvipng
     - pandoc
+    - ca-certificates
+    - python-setuptools
+    - fonts-lmodern
+    - wget
+    - xzdec
 
 install:
 #- apt-get install -y ipython ipython-notebook python-jinja2 python-pygments
 - pip install "ipython[notebook]" --upgrade
 - pip install nbconvert pypandoc
+- pip install pygments
 
 before_script:
 # Downloads GDrive tool locally (from https://github.com/prasmussen/gdrive)
