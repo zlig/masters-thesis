@@ -1,8 +1,8 @@
+[![Build Status](https://travis-ci.org/zlig/masters-thesis.svg?branch=master)](https://travis-ci.org/zlig/masters-thesis)
+
 # masters-thesis
 
 MSc Artificial Intelligence Thesis
-
-[![Build Status](https://travis-ci.org/zlig/masters-thesis.svg?branch=master)](https://travis-ci.org/zlig/masters-thesis)
 
 ## Information
 * Cover page with author name to allow being referenced
