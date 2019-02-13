@@ -50,6 +50,11 @@ categorical_columns = dataframe.select_dtypes(include=['category', object]).colu
 print(categorical_columns)
 ```
 
+```
+# Create an identical copy of dataframe (for experiments)
+dataframe_copy = dataframe.copy(deep=True)
+```
+
 
 ## Create Plots
 
