@@ -11,7 +11,8 @@
 
 * [Validations Assumptions and Identify Patterns](https://www.svds.com/value-exploratory-data-analysis/)
 
-## Load dataset
+## Pandas
+### Load dataset
 
 * [Technical Notes and Common Operations](https://chrisalbon.com/)
 
@@ -55,6 +56,39 @@ print(categorical_columns)
 dataframe_copy = dataframe.copy(deep=True)
 ```
 
+## Numpy
+
+### Array Manipulations
+
+```
+# View 10 first rows
+X[:10,:]
+
+# View 10 first rows
+y[:10]
+
+# View first column only
+X[:,[0]]
+
+# View 10 first rows of the first column only
+X[:10,[0]]
+
+# View 10 first rows of the second column only
+X[:10,[1]]
+
+# Square experiment on the first 10 rows of the first column
+X[:10,[0]]**2
+```
+
+```
+# Experimenting to create X2 = (x1,x2,x1^2,x2^2)
+X2 = X
+x1_squared = X[:,[0]]**2
+x2_squared = X[:,[1]]**2
+X2 = np.append(X, x1_squared, 1)
+X2 = np.append(X2, x2_squared, 1)
+X2.shape
+```
 
 ## Create Plots
 
