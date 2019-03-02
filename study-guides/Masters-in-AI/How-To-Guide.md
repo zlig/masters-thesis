@@ -56,47 +56,7 @@ print(categorical_columns)
 dataframe_copy = dataframe.copy(deep=True)
 ```
 
-## Numpy
-
-### Array Manipulations
-
-```
-# View 10 first rows
-X[:10,:]
-
-# View 10 first rows
-y[:10]
-
-# View first column only
-X[:,[0]]
-
-# View 10 first rows of the first column only
-X[:10,[0]]
-
-# View 10 first rows of the second column only
-X[:10,[1]]
-
-# Square experiment on the first 10 rows of the first column
-X[:10,[0]]**2
-```
-
-```
-# Experimenting to create X2 = (x1,x2,x1^2,x2^2)
-X2 = X
-x1_squared = X[:,[0]]**2
-x2_squared = X[:,[1]]**2
-X2 = np.append(X, x1_squared, 1)
-X2 = np.append(X2, x2_squared, 1)
-X2.shape
-```
-
-## Create Plots
-
-* [What plots?](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea)
-* [Visualisation using Pandas](https://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
-
-
-## Working Missing Values
+### Working Missing Values
 
 Rarely datasets are available already cleansed and prepared, with a common issue being to have missing values from the rows.
 
@@ -139,3 +99,44 @@ df.loc[(df['age'] > 50) & (df['age'] <= 65), 'age_group'] = 'senior'
 df.dropna(inplace=True)
 df.reset_index(drop=True, inplace=True)
 ```
+
+
+
+## Numpy
+
+### Array Manipulations
+
+```
+# View 10 first rows
+X[:10,:]
+
+# View 10 first rows
+y[:10]
+
+# View first column only
+X[:,[0]]
+
+# View 10 first rows of the first column only
+X[:10,[0]]
+
+# View 10 first rows of the second column only
+X[:10,[1]]
+
+# Square experiment on the first 10 rows of the first column
+X[:10,[0]]**2
+```
+
+```
+# Experimenting to create X2 = (x1,x2,x1^2,x2^2)
+X2 = X
+x1_squared = X[:,[0]]**2
+x2_squared = X[:,[1]]**2
+X2 = np.append(X, x1_squared, 1)
+X2 = np.append(X2, x2_squared, 1)
+X2.shape
+```
+
+## Create Plots
+
+* [What plots?](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea)
+* [Visualisation using Pandas](https://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
