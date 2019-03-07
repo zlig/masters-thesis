@@ -46,7 +46,8 @@ Possible subjects or topics to be identified:
 - AI Data Analytics interpreting datasets and proposing best models
 - Using CNN to estimate the calorie count of a serving using a picture
 - Real-Time Annotations of Object in a Video Stream with identification of hand gestures
-
+- AI Jokes Generator
+- IVR-like Voice Automated Conversation Bot
 
 ## Presentation
 * Slides
