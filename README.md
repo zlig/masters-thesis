@@ -48,7 +48,8 @@ Possible subjects or topics to be identified:
 - Real-Time Annotations of Object in a Video Stream with identification of hand gestures
 - AI Jokes Generator
 - IVR-like Voice Automated Conversation Bot
-- Chabot system learning for multiple documentation sources
+- Chatbot system learning for multiple documentation sources
+- Trading bot reacting to trend and performing buy/sell orders autoamtically
 
 ## Presentation
 * Slides
