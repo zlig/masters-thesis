@@ -50,6 +50,8 @@ Possible subjects or topics to be identified:
 - IVR-like Voice Automated Conversation Bot
 - Chatbot system learning for multiple documentation sources
 - Trading bot reacting to trend and performing buy/sell orders autoamtically
+- AIOps Automatic Anomaly Detection of Resources, Latency, Responses Times
+- Data-Driven Trading of Stocks and Cryptos Using REST API calls platform (Plus500/RobinHood), Stock Prices, News Feeds, actioning orders automatically
 
 ## Presentation
 * Slides
