@@ -52,6 +52,7 @@ Possible subjects or topics to be identified:
 - Trading bot reacting to trend and performing buy/sell orders autoamtically
 - AIOps Automatic Anomaly Detection of Resources, Latency, Responses Times
 - Data-Driven Trading of Stocks and Cryptos Using REST API calls platform (Plus500/RobinHood), Stock Prices, News Feeds, actioning orders automatically
+- RL-driven Solution to Sort Recyclables and Refuse ([Environment](https://gym.openai.com/envs/#robotics))
 
 ## Presentation
 * Slides
