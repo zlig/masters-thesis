@@ -32,7 +32,7 @@ Possible subjects or topics to be identified:
 - Lottery draws predictions based on model
 - Application logs monitoring using MCA for classification
 - Services to summarize notes, articles, or textbooks
-- AWS Deep racers self-driving via reinforced learning
+- [AWS Deep racers](https://aws.amazon.com/deepracer/) self-driving via reinforced learning
 - Art or haiku generated from a GAN
 - Mood of the day in region of the world via news and twitter
 - Service suggesting what to watch based on taste and location
