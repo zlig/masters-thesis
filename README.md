@@ -53,6 +53,9 @@ Possible subjects or topics to be identified:
 - AIOps Automatic Anomaly Detection of Resources, Latency, Responses Times
 - Data-Driven Trading of Stocks and Cryptos Using REST API calls platform (Plus500/RobinHood), Stock Prices, News Feeds, actioning orders automatically
 - RL-driven Solution to Sort Recyclables and Refuse ([Environment](https://gym.openai.com/envs/#robotics))
+- Predict Statistical Anomalies and Events from a Timeseries Dataset
+- Comparison of statistical analysis performance model with modern neural network to measure improvements and reduce false positive
+- On reception of an alert, identify related standard operating procedure within a SOP database using NLP
 
 ## Presentation
 * Slides
