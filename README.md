@@ -22,6 +22,7 @@ MSc Artificial Intelligence Thesis
 * Analysis
 * Discussion
 * Conclusion
+* References ([Harvard Referencing Style](https://libguides.ul.ie/citeitright))
 
 ## Identify Topic
 Possible subjects or topics to be identified:
