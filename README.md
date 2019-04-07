@@ -58,6 +58,8 @@ Possible subjects or topics to be identified:
 - Comparison of statistical analysis performance model with modern neural network to measure improvements and reduce false positive
 - On reception of an alert, identify related standard operating procedure within a SOP database using NLP
 - Service to submit a map and receive annotated GeoTIFF document with layers showing identified patterns (road, fields, border..etc)
+- télé présence appliance interfacing automatically
+
 
 ## Presentation
 * Slides
