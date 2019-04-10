@@ -38,11 +38,9 @@ before_script:
 - echo "c.PDFPostProcessor.latex_command = [u'xelatex', u'{filename}']" >> ~/.ipython/profile_nbserver/ipython_nbconvert_config.py
 
 script:
-- mkdir output/
-- cd output/
 - pandoc --help
-- ipython nbconvert --to PDF --config ~/.ipython/profile_nbserver/ipython_nbconvert_config.py ../notebooks/*/*.ipynb
-- cp ../notebooks/*/*.pdf .
+- ipython nbconvert --to PDF --config ~/.ipython/profile_nbserver/ipython_nbconvert_config.py notebooks/*/*.ipynb
+- cp notebooks/*/*.pdf .
 
 before_deploy:
   # Set up git user name and tag this commit
