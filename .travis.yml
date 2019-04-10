@@ -43,7 +43,6 @@ script:
 - pandoc --help
 - ipython nbconvert --to PDF --config ~/.ipython/profile_nbserver/ipython_nbconvert_config.py ../notebooks/*/*.ipynb
 - cp ../notebooks/*/*.pdf .
-#- pdflatex -interaction=nonstopmode -halt-on-error -output-directory . ../tex/*.tex
 
 before_deploy:
   # Set up git user name and tag this commit
