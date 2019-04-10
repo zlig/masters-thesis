@@ -59,7 +59,7 @@ Possible subjects or topics to be identified:
 - On reception of an alert, identify related standard operating procedure within a SOP database using NLP
 - Service to submit a map and receive annotated GeoTIFF document with layers showing identified patterns (road, fields, border..etc)
 - Télé-présence appliance interfacing automatically to remote in case of an event (someone here, door bell..)
-
+- Timeseries dataset comparisons of white box vs black/grey box models, such as ARIMA vs GARCH vs LSTM
 
 ## Presentation
 * Slides
