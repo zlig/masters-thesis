@@ -5,6 +5,11 @@ language: python
 python:
     - 3.6
 
+branches:
+    only:
+    - master
+    - /v\d+\.\d+[a-z]/
+
 addons:
   apt:
     packages:
