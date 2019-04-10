@@ -10,6 +10,11 @@ env:
     - DEPLOY_REPO=zlig/masters-thesis
     - DEPLOY_FILES=output/*.pdf
 
+branches:
+    only:
+    - master
+    - /v\d+\.\d+[a-z]/
+
 addons:
   apt:
     packages:
