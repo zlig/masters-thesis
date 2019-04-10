@@ -111,7 +111,7 @@ Computer Vision is a part of artificial intelligence that deals with making comp
 
 ## Sources of Information
 * [Listing references and writingtools](https://libguides.mit.edu/cite-write/bibtex): BibTeX is reference management software for formatting lists of references. The BibTeX tool is typically used together with the LaTeX document preparation system.
-* [Google Scholars](https://scholar.google.com/citations?user=twuEPEEAAAAJ&hl=en)
+* **Google Scholars** [Z. M.](https://scholar.google.com/citations?user=twuEPEEAAAAJ&hl=en) [J. D.](https://scholar.google.com/citations?user=tJwdAsEAAAAJ&hl=en)
 
 ## Resources
 * [Dissertation Writing](https://ulsites.ul.ie/rwc/sites/default/files/Dissertation%20Writing%202.pdf)
