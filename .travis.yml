@@ -5,10 +5,10 @@ language: python
 python:
     - 3.6
 
-branches:
-    only:
-    - master
-    - /v\d+\.\d+[a-z]/
+env:
+  global:
+    - DEPLOY_REPO=zlig/masters-thesis
+    - DEPLOY_FILES=output/*.pdf
 
 addons:
   apt:
@@ -55,8 +55,8 @@ before_deploy:
   - git tag $TRAVIS_TAG
 deploy:
   provider: releases
-  api_key: $GITHUB_OAUTH_TOKEN
+  api_key: "${GITHUB_OAUTH_TOKEN}"
   file_glob: true
-  file: output/*.pdf
+  file: "${DEPLOY_FILES}"
   skip_cleanup: true
   draft: true
