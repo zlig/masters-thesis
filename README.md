@@ -60,6 +60,7 @@ Possible subjects or topics to be identified:
 - Service to submit a map and receive annotated GeoTIFF document with layers showing identified patterns (road, fields, border..etc)
 - Télé-présence appliance interfacing automatically to remote in case of an event (someone here, door bell..)
 - Timeseries dataset comparisons of white box vs black/grey box models, such as ARIMA vs GARCH vs LSTM
+- Matches Jobs to Candidate via the skills using LDA
 
 ## Presentation
 * Slides
