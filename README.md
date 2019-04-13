@@ -61,6 +61,7 @@ Possible subjects or topics to be identified:
 - Télé-présence appliance interfacing automatically to remote in case of an event (someone here, door bell..)
 - Timeseries dataset comparisons of white box vs black/grey box models, such as ARIMA vs GARCH vs LSTM
 - Matches Jobs to Candidate via the skills using Latent Dirichlet Allocation (LDA)
+- Plots information on countries regarding a particular and controversial topic discussed in the news (e.g. [refugees](http://refugeesare.info/))
 
 ## Presentation
 * Slides
