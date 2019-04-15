@@ -62,6 +62,7 @@ Possible subjects or topics to be identified:
 - Timeseries dataset comparisons of white box vs black/grey box models, such as ARIMA vs GARCH vs LSTM
 - Matches Jobs to Candidate via the skills using Latent Dirichlet Allocation (LDA)
 - Plots information on countries regarding a particular and controversial topic discussed in the news (e.g. [refugees](http://refugeesare.info/))
+- Using a swarm of drones to map a building and tak pictures to estimates required maintenances
 
 ## Presentation
 * Slides
