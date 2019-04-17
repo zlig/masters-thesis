@@ -62,6 +62,7 @@ Possible subjects or topics to be identified:
 - Matches Jobs to Candidate via the skills using Latent Dirichlet Allocation (LDA)
 - Plots information on countries regarding a particular and controversial topic discussed in the news (e.g. [refugees](http://refugeesare.info/))
 - Using a swarm of drones to map a building and tak pictures to estimates required maintenances
+- Suggesting events happening in a place a time based on previous interests
 
 ## Presentation
 * Slides
