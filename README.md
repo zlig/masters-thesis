@@ -24,6 +24,12 @@ MSc Artificial Intelligence Thesis
 * Conclusion
 * References ([Harvard Referencing Style](https://libguides.ul.ie/citeitright))
 
+## About
+
+A project and a thesis is a compilation of research that proves knowledge about the information learn throughout the master's program.
+
+The point of the project is to show the ability to think critically about a topic and to knowledgeably discuss the information in-depth. Usually, the opportunity to expand upon a subject that is most relevant to some field can be taken such as, for instance, specialisation in a particular ML technique, a particular area, or a in-depth comparison.
+
 ## Identify Topic
 Possible subjects or topics to be identified:
 - Service Levels Availability monitor predicting anomalies
