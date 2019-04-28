@@ -69,6 +69,7 @@ Possible subjects or topics to be identified:
 - Plots information on countries regarding a particular and controversial topic discussed in the news (e.g. [refugees](http://refugeesare.info/))
 - Using a swarm of drones to map a building and tak pictures to estimates required maintenances
 - Suggesting events happening in a place a time based on previous interests
+- Calories on the move: An experimentation research on calories counting using modern tools and techniques via instant mobile acces
 
 ## Presentation
 * Slides
