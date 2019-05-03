@@ -70,6 +70,7 @@ Possible subjects or topics to be identified:
 - Using a swarm of drones to map a building and tak pictures to estimates required maintenances
 - Suggesting events happening in a place a time based on previous interests
 - Calories on the move: An experimentation research on calories counting using modern tools and techniques via instant mobile acces
+- Syndrome surveillance on real-time by querying sentiment on social network
 
 ## Presentation
 * Slides
