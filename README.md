@@ -50,7 +50,7 @@ Possible subjects or topics to be identified:
 - Mood of the day in region of the world via news and twitter
 - Service suggesting what to watch based on taste and location (recommendation system)
 - Autonomous RC Car using RPi, Camera, CNN and OpenCV ([example](https://github.com/hamuchiwa/AutoRCCar))
-- Geolocation project based on OpenStreetMap APIs to provide suggested hikes and estimated diffculty by looking at changes in elevation
+- Geolocation project based on OpenStreetMap APIs to provide suggested hikes and with estimated diffculty based changes in elevation
 - AI Web Crawler trained to identify and classify content ([examples](https://www.quora.com/Can-a-Web-Crawler-be-programmed-to-use-artificial-intelligence))
 - ML approach to trading and financial markets using APIs for automated orders
 - Intelligent Tourist Information System
