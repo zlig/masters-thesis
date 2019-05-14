@@ -38,10 +38,10 @@ The point of the project is to show the ability to think critically about a topi
 
 ## Identify Topic
 Possible subjects or topics to be identified:
-- Service Levels Availability monitor predicting anomalies
-- Chatbot generating sentences from vocabulary
+- Service Levels Availability monitor predicting anomalies to prevent interruption by receiving early warnings
+- Chatbot generating sentences from vocabulary on a given topic following a training using open data-sources usch as wikipedia, Free-Domain Books, Thesis and White Papers
 - Scrape articles of same topic and compare
-- Provides description of uploaded picture
+- Detect, identify, and Annotate an Uploaded Picture with Sort Description
 - Lottery draws predictions based on model
 - Application logs monitoring using MCA for classification
 - Services to summarize notes, articles, or textbooks
