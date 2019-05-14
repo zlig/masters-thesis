@@ -44,7 +44,7 @@ Possible subjects or topics to be identified:
 - Detect, identify, and Annotate an Uploaded Picture with Sort Description
 - Lottery draws predictions based on model
 - Application logs monitoring using MCA for classification
-- Services to summarize notes, articles, or textbooks
+- Services to summarize notes, articles, or textbooks, by uploading text, document or URL, and using widely available libraries
 - [AWS Deep racers](https://aws.amazon.com/deepracer/) self-driving via reinforced learning
 - Art or haiku generated from a GAN
 - Mood of the day in region of the world via news and twitter
