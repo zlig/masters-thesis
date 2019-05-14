@@ -67,7 +67,7 @@ Possible subjects or topics to be identified:
 - Timeseries dataset comparisons of white box vs black/grey box models, such as ARIMA vs GARCH vs LSTM
 - Matches Jobs to Candidate via the skills using Latent Dirichlet Allocation (LDA)
 - Plots information on countries regarding a particular and controversial topic discussed in the news (e.g. [refugees](http://refugeesare.info/))
-- Using a swarm of drones to map a building and tak pictures to estimates required maintenances
+- Using a swarm of drones to map a building and take pictures to estimates required maintenances ([AirSim](https://github.com/microsoft/AirSim))
 - Suggesting events happening in a place a time based on previous interests
 - Calories on the move: An experimentation research on calories counting using modern tools and techniques via instant mobile acces
 - Syndrome surveillance on real-time by querying sentiment on social network
