@@ -56,7 +56,7 @@ Possible subjects or topics to be identified:
 - Intelligent Tourist Information System
 - AI Algorithms and Data Anaytics preliminary steps automation ([graphs](https://www.gapminder.org/tools/))
 - Insanity Divergence Appliance (IDA), Real-Time Speech-Driven Companion for long space travels
-- AI Data Analytics interpreting datasets and proposing best models
+- AI Data Analytics interpreting datasets and proposing best models, automatising the largest part of the 80% of data science to prepare data (i.e. automatically wanr of similarirty using NLP, or correlations using proven techniques, given a dataset)
 - Using CNN to estimate the calorie count of a serving using a picture
 - Real-Time Annotations of Object in a Video Stream with identification of hand gestures
 - IVR-like Voice Automated Conversation Bot
