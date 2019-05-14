@@ -24,6 +24,12 @@ MSc Artificial Intelligence Thesis
 * Conclusion
 * References ([Harvard Referencing Style](https://libguides.ul.ie/citeitright))
 
+## Project Deliverables
+
+* Report
+* Presentation
+* Thesis
+
 ## About
 
 A project and a thesis is a compilation of research that proves knowledge about the information learn throughout the master's program.
