@@ -76,7 +76,7 @@ Possible subjects or topics to be identified:
 - Using a swarm of drones to map a building and take pictures to estimates required maintenances ([AirSim](https://github.com/microsoft/AirSim))
 - Suggesting events happening in a place a time based on previous interests
 - Calories on the move: An experimentation research on calories counting using modern tools and techniques via instant mobile acces
-- Syndrome surveillance on real-time by querying sentiment on social network
+- Syndromic surveillance on real-time by querying sentiment on social network ([White Paper](https://www.sciencedirect.com/science/article/pii/S0306457317303448))
 
 ## Presentation
 * Slides
