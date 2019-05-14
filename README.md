@@ -40,7 +40,7 @@ The point of the project is to show the ability to think critically about a topi
 Possible subjects or topics to be identified:
 - Service Levels Availability (SLA) monitor predicting anomalies to prevent interruption by receiving early warnings based on historic response time
 - Chatbot generating sentences from vocabulary on a given topic following a training using open data-sources usch as wikipedia, Free-Domain Books, Thesis and White Papers
-- Scrape articles of same topic and compare
+- Scrape articles of same topic and compare using libraries to show synopsys and sentiment ([Sentiment and Summaries](https://agentanakinai.wordpress.com/2019/05/08/dual-twitter-sentiment-analysis-text-summaries-2/))
 - Detect, identify, and Annotate an Uploaded Picture with Sort Description
 - Lottery draws predictions based on model
 - Application logs monitoring using MCA for classification
@@ -48,9 +48,9 @@ Possible subjects or topics to be identified:
 - [AWS Deep racers](https://aws.amazon.com/deepracer/) self-driving via reinforced learning
 - Art or haiku generated from a GAN
 - Mood of the day in region of the world via news and twitter
-- Service suggesting what to watch based on taste and location
+- Service suggesting what to watch based on taste and location (recommendation system)
 - Autonomous RC Car using RPi, Camera, CNN and OpenCV ([example](https://github.com/hamuchiwa/AutoRCCar))
-- Geolocation project based on OpenStreetMap APIs
+- Geolocation project based on OpenStreetMap APIs to provide suggested hikes and estimated diffculty by looking at changes in elevation
 - AI Web Crawler trained to identify and classify content ([examples](https://www.quora.com/Can-a-Web-Crawler-be-programmed-to-use-artificial-intelligence))
 - ML approach to trading and financial markets using APIs for automated orders
 - Intelligent Tourist Information System
