@@ -42,7 +42,7 @@ Possible subjects or topics to be identified:
 - Chatbot generating sentences from vocabulary on a given topic following a training using open data-sources usch as wikipedia, Free-Domain Books, Thesis and White Papers
 - Scrape articles of same topic and compare using libraries to show synopsys and sentiment ([Sentiment and Summaries](https://agentanakinai.wordpress.com/2019/05/08/dual-twitter-sentiment-analysis-text-summaries-2/))
 - Detect, identify, and Annotate an Uploaded Picture with Sort Description
-- Lottery draws predictions based on model
+- Lottery draws predictions based on model and previous draws probabilities
 - Application logs monitoring using MCA for classification
 - Services to summarize notes, articles, or textbooks, by uploading text, document or URL, and using widely available libraries
 - [AWS Deep racers](https://aws.amazon.com/deepracer/) self-driving via reinforced learning
