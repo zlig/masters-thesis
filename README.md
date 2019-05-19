@@ -78,6 +78,9 @@ Possible subjects or topics to be identified:
 - Suggesting events happening in a place and time based on previous interests (real-time trip advisor)
 - Calories on the move: An experimentation research on calories counting using modern tools and techniques via instant mobile access (i.e. calories counting via mobile phone app pointed at plate)
 - Syndromic surveillance on real-time by querying sentiment on social network ([White Paper](https://www.sciencedirect.com/science/article/pii/S0306457317303448))
+- Real-Time Trends and Anomalies Detection of Resources Usage of Large-Scale Distributed Systems (DL + NLP) ( [Book](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch18.html) )
+- Prediction of the Crops Yields Based on Weather Data and Geospacial Sattelite Images (CV) ( [White Paper](https://www.sciencedirect.com/science/article/pii/S0168192318303162) )
+
 
 ## Presentation
 * Slides
