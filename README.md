@@ -51,9 +51,13 @@ The point of the project is to show the ability to think critically about a topi
 
 ## Identify Topic
 
+### Method
+
 * Investigate a topic that you wish to review, then formulate and review.
 * Understand the philosophy and formulate the design, then address the ethical issues.
 * Proced with data collection
+
+### Samples
 
 Possible subjects or topics to be identified:
 - Service Levels Availability (SLA) monitor predicting anomalies to prevent interruption by receiving early warnings based on historic response time
