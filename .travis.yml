@@ -27,6 +27,7 @@ addons:
     - texlive-xetex
     - dvipng
     - pandoc
+    - pdflatex
     - ca-certificates
     - python-setuptools
     - fonts-lmodern
@@ -46,11 +47,14 @@ before_script:
 - mkdir -p ~/.ipython/profile_nbserver/
 - echo "c = get_config()" > ~/.ipython/profile_nbserver/ipython_nbconvert_config.py
 - echo "c.PDFPostProcessor.latex_command = [u'xelatex', u'{filename}']" >> ~/.ipython/profile_nbserver/ipython_nbconvert_config.py
+- pandoc --help
 
 script:
-- pandoc --help
+# Converts Jupyter Notebooks
 - ipython nbconvert --to PDF --config ~/.ipython/profile_nbserver/ipython_nbconvert_config.py notebooks/*/*.ipynb
 - cp notebooks/*/*.pdf .
+# Converts Tex files
+- travis_wait 6 pdflatex -output-directory . ./thesis/thesis.tex
 
 before_deploy:
   # Set up git user name and tag this commit
