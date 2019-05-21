@@ -30,6 +30,19 @@ MSc Artificial Intelligence Thesis
 * Presentation
 * Thesis
 
+## Research Process
+
+* Finding Relevant Information
+* Critically Evaluating Information
+* Looking for gaps, errors, inconsistencies, or area of improvement
+* Revisiting litterature to evaluate this
+* Identify research questions
+* Write a proposal
+* Design an approach to address the gap
+* Review findings
+* Continuous peer review
+* Publish paper(s)
+
 ## About
 
 A project and a thesis is a compilation of research that proves knowledge about the information learn throughout the master's program.
