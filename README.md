@@ -50,6 +50,11 @@ A project and a thesis is a compilation of research that proves knowledge about 
 The point of the project is to show the ability to think critically about a topic and to knowledgeably discuss the information in-depth. Usually, the opportunity to expand upon a subject that is most relevant to some field can be taken such as, for instance, specialisation in a particular ML technique, a particular area, or a in-depth comparison.
 
 ## Identify Topic
+
+* Investigate a topic that you wish to review, then formulate and review.
+* Understand the philosophy and formulate teh design, then address the ethical issues.
+* Proced with data collection
+
 Possible subjects or topics to be identified:
 - Service Levels Availability (SLA) monitor predicting anomalies to prevent interruption by receiving early warnings based on historic response time
 - Chatbot generating sentences from vocabulary on a given topic following a training using open data-sources usch as wikipedia, Free-Domain Books, Thesis and White Papers
