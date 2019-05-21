@@ -52,7 +52,7 @@ The point of the project is to show the ability to think critically about a topi
 ## Identify Topic
 
 * Investigate a topic that you wish to review, then formulate and review.
-* Understand the philosophy and formulate teh design, then address the ethical issues.
+* Understand the philosophy and formulate the design, then address the ethical issues.
 * Proced with data collection
 
 Possible subjects or topics to be identified:
