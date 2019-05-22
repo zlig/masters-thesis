@@ -27,7 +27,6 @@ addons:
     - texlive-xetex
     - dvipng
     - pandoc
-    - pdflatex
     - ca-certificates
     - python-setuptools
     - fonts-lmodern
