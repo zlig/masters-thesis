@@ -1,0 +1,8 @@
+classicthesis-v4.2 is a bugfix release of the classic thesis template that for the first time introduces BibLaTeX, a powerful package for formatting citations and references. Due to lacking support in LyX, several hacks have been applied (wiki.lyx.org/BibTeX/Biblatex) so that standard LyX dialogs could be used for citation input, and bibliography databases found during compilation. BibLaTeX is capable of employing several backends for bibliography management; we provide two: biber, the preferred and most capable one (but still immature and sometimes glitchy), and bibtex8. If both fail for you, revert to the old bibliography management with BibTeX.
+Test the template by opening and compiling ClassicThesis.lyx in this order:
+classicthesis-LyX-v4.2_biblatex_biber/ (tested and worked with TeX Live 2014 on Fedora Linux 22)
+classicthesis-LyX-v4.2_biblatex_bibtex8/ (tested and worked with MikTeX 2.9 on Windows as well)
+classicthesis-LyX-v4.1_bugfix/
+Note that this is the same template set up in three different ways - you will be using only one of the folders.
+
+Read Chapters 1 & 4 of ClassicThesis.pdf for a short introduction to Classic Thesis template for LyX.
