@@ -53,7 +53,7 @@ script:
 - ipython nbconvert --to PDF --config ~/.ipython/profile_nbserver/ipython_nbconvert_config.py notebooks/*/*.ipynb
 - cp notebooks/*/*.pdf .
 # Converts Tex files
-#- travis_wait 6 pdflatex -output-directory . ./thesis/thesis.tex
+- travis_wait 6 pdflatex -output-directory . thesis/templates/pu-thesis-latex/thesis.tex
 
 before_deploy:
   # Set up git user name and tag this commit
