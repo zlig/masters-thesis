@@ -101,6 +101,7 @@ Possible subjects or topics to be identified:
 - Calories on the move: An experimentation research on calories counting using modern tools and techniques via instant mobile access (i.e. calories counting via mobile phone app pointed at plate)
 - Syndromic surveillance on real-time by querying sentiment on social network ( [White Paper](https://www.sciencedirect.com/science/article/pii/S0306457317303448))
 - Real-Time Trends and Anomalies Detection of Resources Usage of Large-Scale Distributed Systems (DL + NLP) ( [Book](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch18.html) [White Paper](https://arxiv.org/pdf/1802.00259.pdf) [How TO](https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7) )
+- Suggesting solutions to an error codes from publicly accessible knowledge-bases
 
 
 ## Presentation
