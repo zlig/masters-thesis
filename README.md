@@ -102,6 +102,7 @@ Possible subjects or topics to be identified:
 - Syndromic surveillance on real-time by querying sentiment on social network ( [White Paper](https://www.sciencedirect.com/science/article/pii/S0306457317303448))
 - Suggesting solutions to an error codes from publicly accessible knowledge-bases
 - Real-Time Trends and Anomalies Detection of Resources Usage of Large-Scale Distributed Systems (DL + NLP) ( [Book](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch18.html) [Book](https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/) [White Paper](https://arxiv.org/pdf/1802.00259.pdf) [How TO](https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7) )
+- Realtime Trends and Anomalies Detection of Resources Usage of Distributed Systems ( [Related](https://www.sciencedirect.com/science/article/pii/S0167739X19303814) [Related](https://www.sciencedirect.com/science/article/pii/S1877050918311153) [Example for IoT](https://www.sciencedirect.com/science/article/pii/S1877050918303995) [Example for IoT](https://www.sciencedirect.com/science/article/pii/S016412121730256X) [Example](https://www.sciencedirect.com/science/article/pii/S2352146517309845) )
 
 
 ## Presentation
@@ -154,7 +155,7 @@ Computer Vision is a part of artificial intelligence that deals with making comp
 
 ## Sources of Information
 * [Listing references and writingtools](https://libguides.mit.edu/cite-write/bibtex): BibTeX is reference management software for formatting lists of references. The BibTeX tool is typically used together with the LaTeX document preparation system.
-* **Google Scholars** [Z. M.](https://scholar.google.com/citations?user=twuEPEEAAAAJ&hl=en) - [J. D.](https://scholar.google.com/citations?user=tJwdAsEAAAAJ&hl=en) - [T. M.](https://scholar.google.com/citations?user=AoTMbz4AAAAJ&hl=en) - [P. V. V.](https://scholar.google.com/citations?user=LEBrfAwAAAAJ&hl=en) - [JP. U.](https://scholar.google.com/citations?hl=en&user=EyJS1i4AAAAJ)
+* **Google Scholars** [Z. M.](https://scholar.google.com/citations?user=twuEPEEAAAAJ&hl=en) - [J. D.](https://scholar.google.com/citations?user=tJwdAsEAAAAJ&hl=en) - [T. M.](https://scholar.google.com/citations?user=AoTMbz4AAAAJ&hl=en) - [P. V. V.](https://scholar.google.com/citations?user=LEBrfAwAAAAJ&hl=en) - [JP. U.](https://scholar.google.com/citations?hl=en&user=EyJS1i4AAAAJ) 
 
 ## Resources
 * [Dissertation Writing](https://ulsites.ul.ie/rwc/sites/default/files/Dissertation%20Writing%202.pdf)
