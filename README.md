@@ -10,6 +10,7 @@ MSc Artificial Intelligence Thesis
 * Publish document into a webpage with link (Pages, Link, Versions ..)
 
 ## Structure
+
 * Summary and foreword
   * To be completed towards the end, when able to overview the project as a whole
   * Thanks to supervisors and peers
