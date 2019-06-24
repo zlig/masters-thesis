@@ -123,25 +123,25 @@ Common topics in Artificial Intelligence for a thesis, research, and project are
 
 ## Checklist
 
-All chapters are written, edited and proofread
-Run spell check
-Formatting: Headers, sub-headers, paragraphs
-Table of contents generated and up-to-date. It should include chapter numbers, chapter titles and page numbers
-All images, tables and graphics are captioned with numbers and explanations.
-All images, tables and graphics are referenced with correct number in the text (don't say "the following image", say "image 3")
-List of images, tables, graphics generated and up-to-date. It should include numbers, descriptions and page numbers
-All information in images/tables/graphics double-checked for accuracy. Information matches the text
-Formatting for tables and graphics consistent
-Formatting of overall text is consistent. Paragraph breaks, page breaks inserted as needed.
-Header, footer, page numbers inserted as needed and correct
-Title page, abstract, appendices, glossary included as needed
-References are complete in-text
-Bibliography list complete and matched with references in text
-References and Bibliography use Harvard style
-Any place holders in text removed/addressed
-Any supervisor comments addressed
-Any requirements for storing or providing data fulfilled
-Celebratory drinks/dinner/fun activity planned for after the submission
+* All chapters are written, edited and proofread
+* Run spell check
+* Formatting: Headers, sub-headers, paragraphs
+* Table of contents generated and up-to-date. It should include chapter numbers, chapter titles and page numbers
+* All images, tables and graphics are captioned with numbers and explanations.
+* All images, tables and graphics are referenced with correct number in the text (don't say "the following image", say "image 3")
+* List of images, tables, graphics generated and up-to-date. It should include numbers, descriptions and page numbers
+* All information in images/tables/graphics double-checked for accuracy. Information matches the text
+* Formatting for tables and graphics consistent
+* Formatting of overall text is consistent. Paragraph breaks, page breaks inserted as needed.
+* Header, footer, page numbers inserted as needed and correct
+* Title page, abstract, appendices, glossary included as needed
+* References are complete in-text
+* Bibliography list complete and matched with references in text
+* References and Bibliography use Harvard style
+* Any place holders in text removed/addressed
+* Any supervisor comments addressed
+* Any requirements for storing or providing data fulfilled
+* Celebratory drinks/dinner/fun activity planned for after the submission
 
 ### Deep Learning
 
