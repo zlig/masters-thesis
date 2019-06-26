@@ -29,30 +29,30 @@ MSc Artificial Intelligence Thesis
 
 ### Specific
 
-* 1. Front title sheet
- * Include the following information:
- * Name, I.D. number, Supervisor's Name, Course Followed, Year, Department, Title of Project.
-* 2. An optional title page
- * Picture/Graphic representing project, Title of Project, Name, I.D. number, year.
-* 3. A single page Abstract
-* 4. The Table of Contents
- * Follow with a List of Figures, List of Tables if appropriate.
-* 5. Introduction and Outline
- * Introduce the topic and context. Clearly state the objectives of the project.
- * Include an outline of the rest of report: e.g. a few lines describing each Chapter.
-* 6. A number of core chapters which might include:
- * Literature Review (of Similar Work)
- * Analytical Background/Requirements Analysis
- * Specification and Design, Implementation, Testing,
- * Results including measurements and facts about performance
- * Discussion of results
-* 7. Conclusion
- * Summarise how the objectives were met. Recommendations for future work.
-* 8. References
-* 9. Acknowledgements
- * You should thank those who supported the project and you.
-* 10. Appendices
- * Discuss the inclusion of appendices e.g. code listings etc. with your supervisor.
+1. Front title sheet
+  * Include the following information:
+  * Name, I.D. number, Supervisor's Name, Course Followed, Year, Department, Title of Project.
+2. An optional title page
+  * Picture/Graphic representing project, Title of Project, Name, I.D. number, year.
+3. A single page Abstract
+4. The Table of Contents
+  * Follow with a List of Figures, List of Tables if appropriate.
+5. Introduction and Outline
+  * Introduce the topic and context. Clearly state the objectives of the project.
+  * Include an outline of the rest of report: e.g. a few lines describing each Chapter.
+6. A number of core chapters which might include:
+  * Literature Review (of Similar Work)
+  * Analytical Background/Requirements Analysis
+  * Specification and Design, Implementation, Testing,
+  * Results including measurements and facts about performance
+  * Discussion of results
+7. Conclusion
+  * Summarise how the objectives were met. Recommendations for future work.
+8. References
+9. Acknowledgements
+  * You should thank those who supported the project and you.
+10. Appendices
+  * Discuss the inclusion of appendices e.g. code listings etc. with your supervisor.
 
 ## Project Deliverables
 
