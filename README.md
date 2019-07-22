@@ -54,11 +54,13 @@ MSc Artificial Intelligence Thesis
 * **10. Appendices**
   * Discuss the inclusion of appendices e.g. code listings etc. with your supervisor.
 
+
 ## Project Deliverables
 
 * Report
 * Presentation
 * Thesis
+
 
 ## Research Process
 
