@@ -51,7 +51,7 @@ before_script:
 script:
 # Converts Jupyter Notebooks
 - ipython nbconvert --to PDF --config ~/.ipython/profile_nbserver/ipython_nbconvert_config.py notebooks/*/*.ipynb
-- cp notebooks/*/*.pdf .
+- cp -f notebooks/*/*.pdf .
 
 before_deploy:
   # Set up git user name and tag this commit
@@ -59,6 +59,7 @@ before_deploy:
   - git config --local user.email "noreply@example.com"
   - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
   - git tag $TRAVIS_TAG
+
 deploy:
   provider: releases
   api_key: "${GITHUB_OAUTH_TOKEN}"
