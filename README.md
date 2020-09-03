@@ -10,6 +10,9 @@ MSc Artificial Intelligence Thesis
 * Publish document into a webpage with link (Pages, Link, Versions ..)
 
 ## Structure
+
+### General
+
 * Summary and foreword
   * To be completed towards the end, when able to overview the project as a whole
   * Thanks to supervisors and peers
@@ -24,11 +27,40 @@ MSc Artificial Intelligence Thesis
 * Conclusion
 * References ([Harvard Referencing Style](https://libguides.ul.ie/citeitright))
 
+### Specific
+
+* **1. Front title sheet**
+  * Include the following information:
+  * Name, I.D. number, Supervisor's Name, Course Followed, Year, Department, Title of Project.
+* **2. An optional title page**
+  * Picture/Graphic representing project, Title of Project, Name, I.D. number, year.
+* **3. A single page Abstract**
+* **4. The Table of Contents**
+  * Follow with a List of Figures, List of Tables if appropriate.
+* **5. Introduction and Outline**
+  * Introduce the topic and context. Clearly state the objectives of the project.
+  * Include an outline of the rest of report: e.g. a few lines describing each Chapter.
+* **6. A number of core chapters which might include**
+  * Literature Review (of Similar Work)
+  * Analytical Background/Requirements Analysis
+  * Specification and Design, Implementation, Testing,
+  * Results including measurements and facts about performance
+  * Discussion of results
+* **7. Conclusion**
+  * Summarise how the objectives were met. Recommendations for future work.
+* **8. References**
+* **9. Acknowledgements**
+  * You should thank those who supported the project and you.
+* **10. Appendices**
+  * Discuss the inclusion of appendices e.g. code listings etc. with your supervisor.
+
+
 ## Project Deliverables
 
 * Report
 * Presentation
 * Thesis
+
 
 ## Research Process
 
@@ -100,7 +132,9 @@ Possible subjects or topics to be identified:
 - Suggesting events happening in a place and time based on previous interests (real-time trip advisor)
 - Calories on the move: An experimentation research on calories counting using modern tools and techniques via instant mobile access (i.e. calories counting via mobile phone app pointed at plate)
 - Syndromic surveillance on real-time by querying sentiment on social network ( [White Paper](https://www.sciencedirect.com/science/article/pii/S0306457317303448))
-- Real-Time Trends and Anomalies Detection of Resources Usage of Large-Scale Distributed Systems (DL + NLP) ( [Book](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch18.html) [White Paper](https://arxiv.org/pdf/1802.00259.pdf) [How TO](https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7) )
+- Suggesting solutions to an error codes from publicly accessible knowledge-bases
+- Real-Time Trends and Anomalies Detection of Resources Usage of Large-Scale Distributed Systems (DL + NLP) ( [Book](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch18.html) [Book](https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/) [White Paper](https://arxiv.org/pdf/1802.00259.pdf) [How TO](https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7) ) ( [Related](https://www.sciencedirect.com/science/article/pii/S0167739X19303814) [Related](https://www.sciencedirect.com/science/article/pii/S1877050918311153) [Example for IoT](https://www.sciencedirect.com/science/article/pii/S1877050918303995) [Example for IoT](https://www.sciencedirect.com/science/article/pii/S016412121730256X) [Example](https://www.sciencedirect.com/science/article/pii/S2352146517309845) [VM Monitoring](https://www.sciencedirect.com/science/article/pii/S1877050916001496) [ARIMA](https://github.com/IrinaMax/CPU-usage-and-anomaly-detection) [Unsupervised Anomaly Detection](https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection) )
+- X-Ray Automated Diagnostic 
 
 
 ## Presentation
@@ -118,6 +152,29 @@ Common topics in Artificial Intelligence for a thesis, research, and project are
 * Computer Vision
 * Biometrics
 * Computational Biology
+
+## Checklist
+
+* All chapters are written, edited and proofread
+* Run spell check
+* Formatting: Headers, sub-headers, paragraphs
+* Table of contents generated and up-to-date, including chapter numbers, chapter titles and page numbers
+* All images, tables and graphics
+  * Captioned with numbers and explanations, 
+  * Referenced with correct number in the text (don't say "the following image", say "image 3")
+* List of images, tables, graphics generated and up-to-date. It should include numbers, descriptions and page numbers
+* All information in images/tables/graphics double-checked for accuracy. Information matches the text
+* Formatting for tables and graphics consistent
+* Formatting of overall text is consistent. Paragraph breaks, page breaks inserted as needed.
+* Header, footer, page numbers inserted as needed and correct
+* Title page, abstract, appendices, glossary included as needed
+* References are complete in-text
+* Bibliography list complete and matched with references in text
+* References and Bibliography use Harvard style
+* Any place holders in text removed/addressed
+* Any supervisor comments addressed
+* Any requirements for storing or providing data fulfilled
+* Celebratory drinks/dinner/fun activity planned for after the submission
 
 ### Deep Learning
 
@@ -153,7 +210,7 @@ Computer Vision is a part of artificial intelligence that deals with making comp
 
 ## Sources of Information
 * [Listing references and writingtools](https://libguides.mit.edu/cite-write/bibtex): BibTeX is reference management software for formatting lists of references. The BibTeX tool is typically used together with the LaTeX document preparation system.
-* **Google Scholars** [Z. M.](https://scholar.google.com/citations?user=twuEPEEAAAAJ&hl=en) - [J. D.](https://scholar.google.com/citations?user=tJwdAsEAAAAJ&hl=en) - [T. M.](https://scholar.google.com/citations?user=AoTMbz4AAAAJ&hl=en) - [P. V. V.](https://scholar.google.com/citations?user=LEBrfAwAAAAJ&hl=en) - [JP. U.](https://scholar.google.com/citations?hl=en&user=EyJS1i4AAAAJ)
+* **Google Scholars** [Z. M.](https://scholar.google.com/citations?user=twuEPEEAAAAJ&hl=en) - [J. D.](https://scholar.google.com/citations?user=tJwdAsEAAAAJ&hl=en) - [T. M.](https://scholar.google.com/citations?user=AoTMbz4AAAAJ&hl=en) - [P. V. V.](https://scholar.google.com/citations?user=LEBrfAwAAAAJ&hl=en) - [JP. U.](https://scholar.google.com/citations?hl=en&user=EyJS1i4AAAAJ) 
 
 ## Resources
 * [Dissertation Writing](https://ulsites.ul.ie/rwc/sites/default/files/Dissertation%20Writing%202.pdf)
